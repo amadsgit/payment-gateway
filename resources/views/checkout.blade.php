@@ -13,7 +13,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="my-3">Toko Durian</h1>
+        <h1 class="my-3">Durianes Subang</h1>
         <div class="col-12 d-flex">
             <div class="card mx-3" style="width: 30rem;">
                 <img src="{{asset('assets/images/durian.jpg')}}" class="card-img-top" alt="...">
