@@ -37,7 +37,7 @@ class OrderController extends Controller
         );
 
         $snapToken = \Midtrans\Snap::getSnapToken($params);
-        // dd($snapToken);
+        // dd($snapToken); 
         return view('checkout', compact('snapToken', 'order'));
     }
 

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script type="text/javascript"
-		src="https://app.sandbox.midtrans.com/snap/snap.js"
+		src="{{config('midtrans.snap_url')}}"
     data-client-key="{{config('midtrans.client_key')}}"></script>
 
     <title>Detail Pesanan</title>
