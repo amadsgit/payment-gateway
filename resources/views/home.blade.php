@@ -314,7 +314,7 @@
                                                     <h4>Durian Bawor</h4>
                                                     <p>Memiliki rasa yang manis dan sedikit pahit.</p>
                                                     <div class="d-flex justify-content-between flex-lg-wrap">
-                                                        <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p><br>
+                                                        <p class="text-dark fs-5 fw-bold mb-0">Rp.5000 / gram</p><br>
                                                         <form action="/checkout" method="POST">
                                                             @csrf
                                                             <div class="mb-3">
@@ -349,7 +349,7 @@
                                                     <h4>Duri Hitam</h4>
                                                     <p>Memiliki rasa yang manis dan sedikit pahit.</p>
                                                     <div class="d-flex justify-content-between flex-lg-wrap">
-                                                        <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p><br>
+                                                        <p class="text-dark fs-5 fw-bold mb-0">Rp.5000 / gram</p><br>
                                                         <form action="/checkout" method="POST">
                                                             @csrf
                                                             <div class="mb-3">
